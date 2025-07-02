@@ -1,0 +1,8 @@
+
+snscrape 
+python-dotenv 
+textblob 
+transformers 
+torch 
+emoji 
+altair 
